@@ -2,8 +2,7 @@
     Módulo 01 - Exercícios 01
 
     Instruções:
-    Todos os exercícios foram colocados dentro de uma estrutura de repetição do/while combinada com uma de condição switch.
-    Para utilizar é só executar todo o algorítmo, escolher o número do exercício (igual ao da atividade) e quando quiser sair, digitar qualquer valor diferente de 1 a 15. E lembre-se, aqui os números de ponto flutuante devem ser escritos com "." e não ",".
+    Todos os exercícios foram colocados dentro de uma estrutura de repetição do/while combinada com uma de condição switch. Para utilizar é só executar todo o algorítmo (é necessário o prompt-sync), escolher o número do exercício (igual ao da atividade) e quando quiser sair, digitar qualquer valor diferente de 1 a 15. E lembre-se, aqui os números de ponto flutuante devem ser escritos com "." e não ",".
 */
 
 const prompt = require('prompt-sync')();
